@@ -5,4 +5,3 @@ _Candlelight Concert takes place in the 13th of April at 9pm
 _Limerick City_
 ## Address
 _St Mary's Cathedral, Bridge Street, Limerick City V94 E068_
-_config.yml 
